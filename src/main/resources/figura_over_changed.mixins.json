@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "pal.thetuar.figuraoverchanged.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "FIguraOverChanged.refmap.json",
+  "mixins": [
+    "thirdperson",
+    "firstperson"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
